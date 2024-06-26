@@ -1,0 +1,18 @@
+.galary__slider__wrapper .slick-list {
+    margin: 0px 0px !important;
+}
+
+
+.bridal_slider__wrapper.slick-prev {
+    left: 0px !important;
+    z-index: 2;
+}
+
+
+@media screen and (max-width: 480px) {
+
+    .service-slider .slick-list {
+        margin: 0px 0px !important;
+    }
+
+}
